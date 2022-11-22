@@ -1,4 +1,4 @@
-var0="Hello python1"
+var0="Hello python2"
 print(var0)
 print(id(var0))
 
