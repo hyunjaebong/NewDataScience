@@ -1,6 +1,7 @@
-var0="Hello python2"
-print(var0)
-print(id(var0))
+var1="Hello python!"
+
+print(var1)
+print(id(var1))
 
 var1=100
 print(var1)
